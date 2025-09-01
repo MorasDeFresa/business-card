@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Castro;Juan David;;;
+FN:Juan David Castro
+ORG:@morasdefresa
+ADR;TYPE=WORK:
+TITLE:
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:JuanCastroMora@proton.me
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=WhatsApp:https://wa.link/6z32x3
+URL;TYPE=GitHub:https://github.com/morasdefresa
+URL;TYPE=LinkedIn:https://linkedin.com/in/morasdefresa
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100008214
+END:VCARD
